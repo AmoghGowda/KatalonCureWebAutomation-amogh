@@ -23,7 +23,7 @@ public class HomePageObject {
     }
 
     // Login button
-    public static WebElement Login(WebDriver driver)
+    /*public static WebElement Login(WebDriver driver)
     {
         element=driver.findElement(By.linkText("Login"));
         return element;
@@ -42,4 +42,6 @@ public class HomePageObject {
         element=driver.findElement(By.id("to-top"));
         return element;
     }
+
+     */
 }

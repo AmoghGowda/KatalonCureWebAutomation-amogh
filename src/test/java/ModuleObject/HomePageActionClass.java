@@ -13,9 +13,9 @@ public class HomePageActionClass {
         // project website visit
         driver.get("https://katalon-demo-cura.herokuapp.com/");
 
-        HomePageObject.hamburgerMenu(driver).click();
+       // HomePageObject.hamburgerMenu(driver).click();
         //Thread.sleep(5000);
-        HomePageObject.Login(driver).click();
+        //HomePageObject.Login(driver).click();
     }
 }
 
